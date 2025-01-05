@@ -1,0 +1,54 @@
+/* Custom CSS for wongnok website */
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h5 {
+    color: #0056b3; /* Bootstrap primary color */
+}
+
+/* Navbar */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Contact Form */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Buttons */
+button {
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #003d80; /* Darker shade of primary */
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+    color: #ddd;
+}
+
+footer ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #fff;
+}
