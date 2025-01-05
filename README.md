@@ -1,3 +1,25 @@
 # hw2_bootstrap
 66160249 git repository
-- 
+- git add .
+- git commit -m "create reson readme"
+- git commit -m "โครงสร้างโปรเจค"
+- git commit -m "home basic"
+- git commit -m "add navbar"
+- git commit -m "add hero section"
+- git commit -m "add hilightplaces"
+- git commit -m "add footer"
+- git commit -m "add morecontent"
+- git commit -m "basic places"
+- git commit -m "add navbar"
+- git commit -m "add main content"
+- git commit -m "add footer"
+- git commit -m "add search navbar"
+- git commit -m "add active navbar"
+- git commit -m "add more content"
+- git commit -m "add colum des mo tep"
+- git commit -m "basic contact"
+- git commit -m "add from contact"
+- git commit -m "add css"
+- git commit -m "edit index"
+- git commit -m "add pic images"
+- git commit -m "add git respone and add screenshot.pdf"
